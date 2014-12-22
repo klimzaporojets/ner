@@ -1,4 +1,2 @@
-ner
-===
-
-NER tagging for Twitter
+The run.sh script file contains the instructions to execute schattie_v2 version of my NER tagger. 
+It is also necessary to download and install crfsuite tool from http://www.chokkan.org/software/crfsuite/. 
